@@ -18,6 +18,6 @@ Business Value:
 Monitoring operational financial performance, forecasting based on historical trends, segmenting
 products for marketing optimization, and analyzing ROI of product investments.
 
--  <a href="[https://docs.google.com/spreadsheets/d/1l4lYn6HbcTQFa6Tpm1K7mDVnQgQpc2nz/edit?usp=sharing&ouid=103412983459731083580&rtpof=true&sd=true](https://drive.google.com/file/d/1ikLR1E1I0vYYJB3J92ZXv4kbDMvo4PXs/view?usp=sharing)">Dataset</a>
+-  <a href="https://drive.google.com/file/d/1ikLR1E1I0vYYJB3J92ZXv4kbDMvo4PXs/view?usp=sharing">Dataset</a>
 ## Dashboard
 <a href="https://public.tableau.com/views/__2_17530401782940/Softwaresalesrevenueanalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">SOFTWARE SALES REVENUE ANALYSIS</a>
