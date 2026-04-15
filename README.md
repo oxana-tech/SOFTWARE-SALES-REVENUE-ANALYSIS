@@ -1,6 +1,7 @@
 # SOFTWARE-SALES-REVENUE-ANALYSIS
 A comprehensive analytical dashboard for a software company featuring sales revenue analysis by product, region, and time period. Includes basic financial analytics, cohort analysis, and trend forecasting.
- The goal of the project: 
+
+The goal of the project: 
 To create a unified analytics platform and provide managers and analysts with a complete overview of the company's financial performance by product, region, and time period for making business decisions based on key profitability indicators. This will allow tracking the effectiveness of products in different geographic markets and analyzing user behavior over time.
                     
 My tasks: 
