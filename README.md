@@ -116,5 +116,5 @@ Split the dashboard into several thematic sheets instead of a single overloaded 
 ## Dashboard
 - <a href="https://public.tableau.com/views/__2_17530401782940/Softwaresalesrevenueanalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">SOFTWARE SALES REVENUE ANALYSIS</a>
 ## Dashboard screenshot
-- <a href="[https://drive.google.com/file/d/1ikLR1E1I0vYYJB3J92ZXv4kbDMvo4PXs/view?usp=sharing](https://drive.google.com/file/d/1T1fpgOGoAgExAGEbNFe7V6XQuvPGtQuu/view?usp=sharing)"Dashboard screenshot</a>
+- <a href="https://drive.google.com/file/d/1T1fpgOGoAgExAGEbNFe7V6XQuvPGtQuu/view?usp=sharing">Dashboard screenshot</a>
 
