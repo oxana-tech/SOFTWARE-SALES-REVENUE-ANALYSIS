@@ -2,7 +2,15 @@
 
 ## Executive Summary
 
-This project analyzes SaaS revenue data (123K transactions) to identify growth drivers, regional performance, and customer segment value.
+Analyzed 123K SaaS transactions to identify key revenue drivers, segment performance, and growth opportunities.
+
+#### Key results:
+- Detected a sharp APAC revenue drop (−14%) → potential churn or seasonality issue
+- Identified enterprise segment as a major revenue driver (33% users → >50% revenue)
+- Revealed underperforming product (Publishing: −56% vs лидеров)
+
+#### Impact:
+The dashboard enables faster decision-making in sales prioritization, pricing strategy, and market focus.
 
 ## Tech Stack
 
@@ -34,9 +42,9 @@ This project analyzes SaaS revenue data (123K transactions) to identify growth d
   Solution: used Measure Names / Measure Values
 
 #### Result:
-The dashboard enables faster monthly reporting and supports data-driven decisions in sales and marketing prioritization.
-The project is an analytical dashboard based on a SaaS company’s transaction data for the period June 2022–May 2023 (123,195 payment records). The dashboard visualizes revenue trends by product, region, and customer type, allowing users to track growth, seasonality, and revenue structure. It was built in Tableau from scratch—from data preparation to the final layout.
-
+Reduced time for monthly reporting
+- Enabled quick identification of revenue trends and anomalies
+- Provided a single source of truth for product and regional performance
 
 ##### Key business impact:
 - Identified APAC revenue drop (-14% mid-year) → potential churn or seasonality issue
@@ -66,7 +74,16 @@ This enables decision-making regarding sales prioritization, marketing budget al
 ##### By region:
 
 USA — the largest region in terms of absolute revenue ($643,880), but its share of total revenue is relatively stable (~8–10% monthly)
-APAC shows a higher share at the beginning of the year (up to 15%), but a noticeable drop in the middle—which signals seasonality or churn
+APAC revenue share drops from 15% to ~1% mid-year,
+indicating a critical performance decline.
+This may signal:
+- customer churn
+- сезонный фактор
+- снижение маркетинговой активности
+Recommendation:
+- analyze retention and churn rate
+- review acquisition channels
+- run cohort analysis
 EMEA—the smallest region by volume ($240,170), but with good stability
 
 #### By product:
