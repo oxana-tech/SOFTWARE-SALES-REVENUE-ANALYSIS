@@ -1,18 +1,48 @@
 # SOFTWARE-SALES-REVENUE-ANALYSIS
 
-### Executive Summary
+## Executive Summary
 
 This project analyzes SaaS revenue data (123K transactions) to identify growth drivers, regional performance, and customer segment value.
 
-##### Key business impact:
-- Identified APAC revenue drop (-14% mid-year) → potential churn or seasonality issue
-- Confirmed enterprise segment generates disproportionately high revenue (33% users → >50% revenue impact)
-- Highlighted underperforming product (Publishing) → candidate for pricing or positioning changes
+## Tech Stack
+
+- Tableau (data visualization, dashboards, calculated fields)
+- SQL 
+- Data modeling concepts (aggregations, LOD, table calculations)
+
+## My Analytical Approach
+
+1. Defined business questions with stakeholders
+2. Cleaned and validated dataset (handled missing values, checked duplicates)
+3. Built core metrics: MRR, ARPPU, revenue share
+4. Performed segmentation:
+   - by region
+   - by customer type
+   - by product
+5. Identified trends and anomalies
+6. Designed dashboard for decision-making
+
+## Challenges & Solutions
+
+- Issue: incorrect aggregation in % calculations
+  Solution: used WINDOW_SUM and adjusted compute using
+
+- Issue: tooltip inconsistency
+  Solution: fixed level of detail using calculated fields
+
+- Issue: multi-metric visualization
+  Solution: used Measure Names / Measure Values
 
 #### Result:
 The dashboard enables faster monthly reporting and supports data-driven decisions in sales and marketing prioritization.
 The project is an analytical dashboard based on a SaaS company’s transaction data for the period June 2022–May 2023 (123,195 payment records). The dashboard visualizes revenue trends by product, region, and customer type, allowing users to track growth, seasonality, and revenue structure. It was built in Tableau from scratch—from data preparation to the final layout.
 
+
+##### Key business impact:
+- Identified APAC revenue drop (-14% mid-year) → potential churn or seasonality issue
+- Confirmed enterprise segment generates disproportionately high revenue (33% users → >50% revenue impact)
+- Highlighted underperforming product (Publishing) → candidate for pricing or positioning changes
+- 
 #### Business Value
 The dashboard answers key questions posed by management:
 
@@ -22,7 +52,8 @@ How important is the enterprise customer segment?
 Are there any dips or anomalies that require attention?
 
 This enables decision-making regarding sales prioritization, marketing budget allocation, and working with customer segments without the need to manually generate reports every month.
-Key Findings and Insights
+
+## Key Findings and Insights
 
 ##### By region:
 
