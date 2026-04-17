@@ -1,6 +1,19 @@
 # SOFTWARE-SALES-REVENUE-ANALYSIS
+
+### Executive Summary
+
+This project analyzes SaaS revenue data (123K transactions) to identify growth drivers, regional performance, and customer segment value.
+
+##### Key business impact:
+- Identified APAC revenue drop (-14% mid-year) → potential churn or seasonality issue
+- Confirmed enterprise segment generates disproportionately high revenue (33% users → >50% revenue impact)
+- Highlighted underperforming product (Publishing) → candidate for pricing or positioning changes
+
+#### Result:
+The dashboard enables faster monthly reporting and supports data-driven decisions in sales and marketing prioritization.
 The project is an analytical dashboard based on a SaaS company’s transaction data for the period June 2022–May 2023 (123,195 payment records). The dashboard visualizes revenue trends by product, region, and customer type, allowing users to track growth, seasonality, and revenue structure. It was built in Tableau from scratch—from data preparation to the final layout.
-Business Value
+
+#### Business Value
 The dashboard answers key questions posed by management:
 
 Which products and regions generate the most revenue?
@@ -10,25 +23,26 @@ Are there any dips or anomalies that require attention?
 
 This enables decision-making regarding sales prioritization, marketing budget allocation, and working with customer segments without the need to manually generate reports every month.
 Key Findings and Insights
-By region:
+
+##### By region:
 
 USA — the largest region in terms of absolute revenue ($643,880), but its share of total revenue is relatively stable (~8–10% monthly)
 APAC shows a higher share at the beginning of the year (up to 15%), but a noticeable drop in the middle—which signals seasonality or churn
 EMEA—the smallest region by volume ($240,170), but with good stability
 
-By product:
+#### By product:
 
 Main App and Customer Success are the revenue leaders (~$400K each)
 Publishing generates significantly less ($175K)—a possible candidate for a strategy or pricing review
 Marketing Automation holds a steady second place among specialized products
 
-By client:
+#### By client:
  
 Enterprise customers account for 33% of the customer base, but their average transaction value is higher (up to $25 vs. $10–15 for regular customers)—they are disproportionately important to revenue
 This confirms the importance of the enterprise segment as a priority for growth
 
 
-Dashboard Design Logic
+### Dashboard Design Logic
 Data source: CSV file saas_revenue.csv with the following fields: user_id, payment_date, location, software_name, is_enterprise_customer, revenue_amount
 Calculated fields you created:
 
