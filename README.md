@@ -51,6 +51,14 @@ How does MRR (monthly recurring revenue) change over time?
 How important is the enterprise customer segment?
 Are there any dips or anomalies that require attention?
 
+### Why This Project Matters
+
+This project demonstrates my ability to:
+- translate business questions into data analysis
+- work with real SaaS metrics (MRR, ARPPU)
+- build decision-support dashboards
+- identify actionable insights, not just describe data
+
 This enables decision-making regarding sales prioritization, marketing budget allocation, and working with customer segments without the need to manually generate reports every month.
 
 ## Key Findings and Insights
