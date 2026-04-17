@@ -72,8 +72,13 @@ EMEA—the smallest region by volume ($240,170), but with good stability
 #### By product:
 
 Main App and Customer Success are the revenue leaders (~$400K each)
-Publishing generates significantly less ($175K)—a possible candidate for a strategy or pricing review
-Marketing Automation holds a steady second place among specialized products
+Publishing generates 56% less revenue than the top-performing products (~$175K vs ~$400K),
+which may indicate weak product-market fit or ineffective pricing.
+
+Recommendation:
+- Run pricing A/B test
+- Analyze user adoption funnel for this product
+- Review positioning vs competitors
 
 #### By client:
  
