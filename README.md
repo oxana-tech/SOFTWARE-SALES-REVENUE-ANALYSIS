@@ -22,7 +22,7 @@ EMEA—the smallest region by volume ($240,170), but with good stability
 #### By product:
 
 Main App and Customer Success are the revenue leaders (~$400K each)
-Publishing generates 56% less revenue than the top-performing products (~$175K vs approx.$400K),
+Publishing generates 56% less revenue than the top-performing products (~$175K vs approx. $400K),
 which may indicate weak product-market fit or ineffective pricing.
 
 Recommendation:
