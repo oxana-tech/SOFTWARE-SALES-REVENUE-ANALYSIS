@@ -3,6 +3,7 @@
 ## Executive Summary
 
 Analyzed 123K SaaS transactions to identify key revenue drivers, segment performance, and growth opportunities.
+
 ## Key Findings and Insights
 ##### By region:
 USA — the largest region in terms of absolute revenue ($643,880), but its share of total revenue is relatively stable (~8–10% monthly)
@@ -42,22 +43,6 @@ How does MRR (monthly recurring revenue) change over time?
 How important is the enterprise customer segment?
 Are there any dips or anomalies that require attention?
 
-#### Key results:
-- Detected a sharp APAC revenue drop (−14%) → potential churn or seasonality issue
-- Identified enterprise segment as a major revenue driver (33% users → >50% revenue)
-- Revealed underperforming product (Publishing: −56% vs лидеров)
-
-#### Impact:
-The dashboard enables faster decision-making in sales prioritization, pricing strategy, and market focus.
-
-## Tech Stack
-
-- Tableau (data visualization, dashboards, calculated fields)
-- SQL 
-- Data modeling concepts (aggregations, LOD, table calculations)
-
-
-
 #### Result & Key business impact:
 Reduced time for monthly reporting
 - Enabled quick identification of revenue trends and anomalies
@@ -66,7 +51,7 @@ Reduced time for monthly reporting
 - Confirmed enterprise segment generates disproportionately high revenue (33% users → >50% revenue impact)
 - Highlighted underperforming product (Publishing) → candidate for pricing or positioning changes
 
-  ## My Analytical Approach
+## My Analytical Approach
 
 1. Defined business questions with stakeholders
 2. Cleaned and validated dataset (handled missing values, checked duplicates)
@@ -77,6 +62,12 @@ Reduced time for monthly reporting
    - by product
 5. Identified trends and anomalies
 6. Designed dashboard for decision-making
+
+## Tech Stack
+
+- Tableau (data visualization, dashboards, calculated fields)
+- SQL 
+- Data modeling concepts (aggregations, LOD, table calculations)
 
 ## Challenges & Solutions
 
